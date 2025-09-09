@@ -2,7 +2,7 @@
 
 # 🚗 Vehicle License Plate Detection & Recognition
 
-A modular computer vision pipeline for detecting and recognizing vehicle license plates from video footage. Built with YOLO for object detection, EasyOCR for text recognition, and SORT for real-time tracking — this system is designed for reproducibility, clarity, and performance.
+A modular computer vision pipeline for detecting and recognizing vehicle license plates from video footage. Built with **YOLO** for object detection, EasyOCR for text recognition, and SORT for real-time tracking — this system is designed for reproducibility, clarity, and performance.
 
 ---
 
